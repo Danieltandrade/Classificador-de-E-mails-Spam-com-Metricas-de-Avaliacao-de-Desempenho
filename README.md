@@ -1,5 +1,11 @@
 # Classificador de E-mails Spam/Ham com Métricas de Avaliação de Desempenho
 
+[![Build Passing](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/Danieltandrade/Classificador-de-E-mails-Spam-com-Metricas-de-Avaliacao-de-Desempenho/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/Python-3.10_|_3.11_|_3.12-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Jupyter Notebook Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tAzR0jGypBXUgbz4M1rVUukUYLvTXweb#scrollTo=k55AHaaupAro)
+
 ## Objetivo
 
 O objetivo deste projeto é desenvolver um classificador de e-mails spam/ham utilizando o algoritmo Naive Bayes e avaliar seu desempenho com métricas de avaliação de desempenho.
@@ -15,6 +21,7 @@ O objetivo deste projeto é desenvolver um classificador de e-mails spam/ham uti
 ├── README.md
 └── requirements.txt
 ```
+
 * `notebooks`: Pasta contendo os notebooks do projeto.
 * `requirements.txt`: Arquivo contendo as dependências do projeto.
 
